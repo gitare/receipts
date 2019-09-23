@@ -1,6 +1,15 @@
+# le légendaire fondant au chocolat
+
 Ingrédients
+
+|  King size    |     Nomal       |  
+| :------------ | :-------------: |
+| Colonne       |     Colonne     |
+| Alignée à     |   Alignée au    |
+| Gauche        |     Centre      |
+
 8 ŒufS
-150 beurre salé
+150 g de beurre salé
 400 g choco noir (2 tablettes dessert)
 200g sucre
 250g farine
