@@ -23,6 +23,7 @@
 ## Etapes détaillées
 --------------------
 source : [https://www.cuisineaz.com/recettes/fondants-au-chocolat-33045.aspx]
+
 mais :
 * les dosages sont différents
 * je fais fondre le beurre plus chocolat au micro-ondes
