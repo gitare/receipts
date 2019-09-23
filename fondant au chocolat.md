@@ -1,5 +1,4 @@
 # le légendaire fondant au chocolat
-===================================
 
 ## Ingrédients
 --------------
