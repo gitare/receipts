@@ -6,7 +6,7 @@
 |  Ingrédient                      |  King size (12 pers.) | Normal (6 pers.)   |
 | :--------------------------------| :------------------   | :------------------|
 | oeufs                            | 8                     | 4                  |
-| chocolat noir (tablettes dessert)| 400 g (2 tablette)    | 200 g (1 tablette) |
+| chocolat noir (tablettes dessert)| 400 g (2 tablettes)   | 200 g (1 tablette) |
 | sucre en poudre                  | 200 g                 | 100 g              |
 | farine                           | 250 g                 | 125 g              |
 | Pralin en poudre                 |                       |                    |
