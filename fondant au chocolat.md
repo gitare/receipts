@@ -27,9 +27,7 @@
 --------------------
 
 ### Faire fondre le chocolat et le beurre au four à micro-ondes
-![step 1](img/fondant/IMG_7470.JPG | width=400)
-![step 2](img/fondant/IMG_7471.JPG | width=400)
-![step 3](img/fondant/IMG_7472.JPG | width=400)
+![step 1](img/fondant/IMG_7470.JPG)
 
 source : [https://www.cuisineaz.com/recettes/fondants-au-chocolat-33045.aspx]
 
