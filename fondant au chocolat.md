@@ -50,7 +50,7 @@ Casser les oeufs dans un saladier et préparer le sucre
 
 Battre les oeufs entiers au batteur électrique
 
-<img src="img/fondant/IMG_7476.JPG" width="400">
+<img src="img/fondant/IMG_7480.JPG" width="400">
 
 Jusqu'à obtenir une mousse homogène
 
