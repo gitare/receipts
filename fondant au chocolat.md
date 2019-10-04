@@ -29,34 +29,43 @@
 ### Faire fondre le chocolat et le beurre au four à micro-ondes
 Couper le beurre en morceaux
 <img src="img/fondant/IMG_7470.JPG" width="400">
+
 Ajouter le chocolat coupé en carreaux
 <img src="img/fondant/IMG_7471.JPG" width="400">
+
 Faire fondre le tout 2 minutes au micro-ondes (750 W)
 <img src="img/fondant/IMG_7472.JPG" width="400">
+
 Mélanger jusqu'à obtenir une pâte onctueuse puis laisser refroidir
 <img src="img/fondant/IMG_7474.JPG" width="400">
 
 ### préparer les oeufs
 Casser les oeufs dans un saladier et préparer le sucre
 <img src="img/fondant/IMG_7476.JPG" width="400">
+
 Battre les oeufs entiers au batteur électrique
 <img src="img/fondant/IMG_7476.JPG" width="400">
+
 Jusqu'à obtenir une mousse homogène
 <img src="img/fondant/IMG_7481.JPG" width="400">
 
 ### mélanger les oeufs et le chocolat
 Verser le chocolat fondu dans le saladier
 <img src="img/fondant/IMG_7483.JPG" width="400">
+
 Puis verser progressivement la farine tout en remuant
 <img src="img/fondant/IMG_7485.JPG" width="400">
+
 Mélanger jusqu'à obtenir une texture crémeuse
 <img src="img/fondant/IMG_7489.JPG" width="400">
 
 ### faire cuire
 Verser la préparation dans le moule
 <img src="img/fondant/IMG_7490.JPG" width="400">
+
 Saupoudrer de pralin
 <img src="img/fondant/IMG_7492.JPG" width="400">
+
 Mettre au four
 <img src="img/fondant/IMG_7495.JPG" width="400">
 
