@@ -26,7 +26,7 @@
 ## Etapes détaillées
 --------------------
 
-### Faire fondre le chocolat et le beurre au four à micro-ondes
+### Faire fondre le chocolat et le beurre
 Couper le beurre en morceaux
 
 <img src="img/fondant/IMG_7470.JPG" width="400">
@@ -43,12 +43,12 @@ Mélanger jusqu'à obtenir une pâte onctueuse puis laisser refroidir
 
 <img src="img/fondant/IMG_7474.JPG" width="400">
 
-### préparer les oeufs
-Casser les oeufs dans un saladier et préparer le sucre
+### Préparer les oeufs
+Casser les oeufs (entiers) dans un saladier et préparer le sucre
 
 <img src="img/fondant/IMG_7476.JPG" width="400">
 
-Battre les oeufs entiers au batteur électrique
+Battre les oeufs au batteur électrique
 
 <img src="img/fondant/IMG_7480.JPG" width="400">
 
@@ -56,7 +56,7 @@ Jusqu'à obtenir une mousse homogène
 
 <img src="img/fondant/IMG_7481.JPG" width="400">
 
-### mélanger les oeufs et le chocolat
+### Mélanger les oeufs et le chocolat
 Verser le chocolat fondu dans le saladier
 
 <img src="img/fondant/IMG_7483.JPG" width="400">
@@ -69,7 +69,7 @@ Mélanger jusqu'à obtenir une texture crémeuse
 
 <img src="img/fondant/IMG_7489.JPG" width="400">
 
-### faire cuire
+### Préparer la cuisson
 Verser la préparation dans le moule
 
 <img src="img/fondant/IMG_7490.JPG" width="400">
