@@ -25,6 +25,11 @@
 
 ## Etapes détaillées
 --------------------
+
+- ![step 1](img/fondant/IMG_7470.JPG)
+- ![step 2](img/fondant/IMG_7471.JPG)
+- ![step 3](img/fondant/IMG_7472.JPG)
+
 source : [https://www.cuisineaz.com/recettes/fondants-au-chocolat-33045.aspx]
 
 mais :
