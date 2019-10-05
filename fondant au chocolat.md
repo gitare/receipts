@@ -1,4 +1,4 @@
-# mon légendaire fondant au chocolat (super simple)
+# Mon légendaire fondant au chocolat (super simple)
 
 
 ## Ingrédients
