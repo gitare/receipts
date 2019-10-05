@@ -48,7 +48,7 @@ Casser les oeufs (entiers) dans un saladier et préparer le sucre
 
 <img src="img/fondant/IMG_7476.JPG" width="400">
 
-Battre les oeufs au batteur électrique
+Ajouter le sucre puis battre les oeufs au batteur électrique
 
 <img src="img/fondant/IMG_7480.JPG" width="400">
 
