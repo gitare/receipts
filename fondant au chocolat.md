@@ -17,10 +17,10 @@
 ## Cuisson
 -----------
 ### King size
-20 minutes à 180°C min en moule à cake Pyrex (type [https://www.boulanger.com/ref/9000047675])
+20 minutes à 180°C dans un moule à cake Pyrex (type [https://www.boulanger.com/ref/9000047675])
 
 ### Normal
-9 minutes dans un plat à tarte (type [https://www.centrakor.com/moule-a-tarte-silicone-d-29cm-300577.html])
+9 minutes à 180°C dans un plat à tarte (type [https://www.centrakor.com/moule-a-tarte-silicone-d-29cm-300577.html])
 
 
 ## Etapes détaillées
