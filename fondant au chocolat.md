@@ -1,4 +1,4 @@
-# le légendaire fondant au chocolat
+# mon légendaire fondant au chocolat (super simple)
 
 
 ## Ingrédients
@@ -26,62 +26,67 @@
 ## Etapes détaillées
 --------------------
 
-### Faire fondre le chocolat et le beurre
-Couper le beurre en morceaux
+### 1. Faire fondre le chocolat et le beurre
+1.a. Couper le beurre en morceaux
 
 <img src="img/fondant/IMG_7470.JPG" width="400">
 
-Ajouter le chocolat coupé en carreaux
+1.b. Ajouter le chocolat coupé en carreaux
 
 <img src="img/fondant/IMG_7471.JPG" width="400">
 
-Faire fondre le tout 2 minutes au micro-ondes (750 W)
+1.c. Faire fondre le tout 2 minutes au micro-ondes (750 W)
 
 <img src="img/fondant/IMG_7472.JPG" width="400">
 
-Mélanger jusqu'à obtenir une pâte onctueuse puis laisser refroidir
+1.d. Mélanger jusqu'à obtenir une pâte onctueuse puis laisser refroidir
 
 <img src="img/fondant/IMG_7474.JPG" width="400">
 
-### Préparer les oeufs
-Casser les oeufs (entiers) dans un saladier et préparer le sucre
+### 2. Préparer les oeufs
+2.a. Casser les oeufs (entiers) dans un saladier et préparer le sucre
 
 <img src="img/fondant/IMG_7476.JPG" width="400">
 
-Ajouter le sucre puis battre les oeufs au batteur électrique
+2.b. Ajouter le sucre puis battre les oeufs au batteur électrique
 
 <img src="img/fondant/IMG_7480.JPG" width="400">
 
-Jusqu'à obtenir une mousse homogène
+2.c. Jusqu'à obtenir une mousse homogène
 
 <img src="img/fondant/IMG_7481.JPG" width="400">
 
-### Mélanger les oeufs et le chocolat
-Verser le chocolat fondu dans le saladier
+### 3. Mélanger les oeufs et le chocolat
+3.a. Verser le chocolat fondu dans le saladier
 
 <img src="img/fondant/IMG_7483.JPG" width="400">
 
-Puis verser progressivement la farine tout en remuant
+3.b. Puis verser progressivement la farine tout en remuant
 
 <img src="img/fondant/IMG_7485.JPG" width="400">
 
-Mélanger jusqu'à obtenir une texture crémeuse
+3.c. Mélanger jusqu'à obtenir une texture crémeuse
 
 <img src="img/fondant/IMG_7489.JPG" width="400">
 
-### Préparer la cuisson
-Verser la préparation dans le moule
+### 4. Préparer la cuisson
+4.a. Verser la préparation dans le moule
 
 <img src="img/fondant/IMG_7490.JPG" width="400">
 
-Saupoudrer de pralin
+4.b. Saupoudrer de pralin
 
 <img src="img/fondant/IMG_7492.JPG" width="400">
 
-Mettre au four
+4.c. Mettre au four
 
 <img src="img/fondant/IMG_7495.JPG" width="400">
 
+4.d. Degustez avec une crème anglaise, de la crème chantilly ou bien une boule de glace :)
+
+
+## Source
+--------------
 source : [https://www.cuisineaz.com/recettes/fondants-au-chocolat-33045.aspx]
 
 mais :
