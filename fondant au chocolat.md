@@ -82,7 +82,8 @@
 
 <img src="img/fondant/IMG_7495.JPG" width="400">
 
-4.d. Degustez avec une crème anglaise, de la crème chantilly ou bien une boule de glace :)
+### 5. Dégustez entre amis
+Degustez avec une crème anglaise, de la crème chantilly ou bien une boule de glace 😋
 
 
 ## Source
