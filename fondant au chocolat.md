@@ -78,7 +78,7 @@
 
 <img src="img/fondant/IMG_7492.JPG" width="400">
 
-4.c. Mettre au four (durée [ici](#cuisson)
+4.c. Mettre au four (durée [ici](#cuisson))
 
 <img src="img/fondant/IMG_7495.JPG" width="400">
 
