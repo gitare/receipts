@@ -1,7 +1,7 @@
 # Mon incroyable lasagne bolognaise *al forno* (inratable)
 
 
-## Ingrédients
+## Les munitions
 |  Ingrédient                      | Quantité (4 personnes)|
 | :--------------------------------| :------------------   |
 | Pâtes à lasagnes                 | 1/4 de la boite       |
@@ -58,7 +58,8 @@
 <img src="img/lasagne/IMG_7558.JPG" width="400">
 
 2.b. Placez une épaisseur de plaques au fond du plat
-Les casser à la bonne taille avec la point d'un couteau si besoin
+
+Pas de cuisson préalable. Les casser à la bonne largeur avec la point d'un couteau si besoin.
 
 <img src="img/lasagne/IMG_7575.JPG" width="400">
 
@@ -74,11 +75,11 @@ Les casser à la bonne taille avec la point d'un couteau si besoin
 
 <img src="img/lasagne/IMG_7585.JPG" width="400">
 
-2.f. Et ainsi de suite, jusqu'à arriver à la dernière couche de sauce. Finir par du fromage
+2.f. Et ainsi de suite (5 ou 6 fois), jusqu'à arriver à la dernière couche de sauce. Finir par du fromage
 
 <img src="img/lasagne/IMG_7587.JPG" width="400">
 
-2.g. Saupoudrer d'une couche de chapelure de pain pour donner du croustillant au dessus
+2.g. L'astuce du chef : Saupoudrer d'une couche de chapelure de pain pour donner du croustillant sur le dessus
 
 <img src="img/lasagne/IMG_7588.JPG" width="400">
 
