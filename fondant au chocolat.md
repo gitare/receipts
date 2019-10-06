@@ -78,21 +78,21 @@
 
 <img src="img/fondant/IMG_7492.JPG" width="400">
 
-4.c. Mettre au four
+4.c. Mettre au four (durée [ici](#cuisson)
 
 <img src="img/fondant/IMG_7495.JPG" width="400">
 
 ### 5. Dégustez entre amis
-Degustez avec une crème anglaise, de la crème chantilly ou bien une boule de glace 😋
+Avec une crème anglaise, de la crème chantilly ou bien une boule de glace 😋
 
 
 ## Source
 --------------
 source : [https://www.cuisineaz.com/recettes/fondants-au-chocolat-33045.aspx]
 
-mais :
+mais j'ajoute ma touche perso :
 * les dosages sont différents
 * le beurre est demi-sel
-* je fais fondre le beurre plus chocolat au micro-ondes
+* je fais fondre le beurre plus le chocolat au micro-ondes
 * j'utilise un grand plat
 * je saupoudre de pralin [https://www.auchan.fr/vahine-pralin-100g/p-61442?lark-b2cd=1]
