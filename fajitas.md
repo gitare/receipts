@@ -17,7 +17,7 @@
 | Crème fraiche épaisse             | 20 cl                 |
 | Beurre                            | 25 g                  |
 | Huile d'olive                     |                       |
-| Galettes (blé ou maïs)            | 6 (1 pack)            |
+| Galettes (blé ou maïs)            | 6 (1 paquet)          |
 | Mélange aux épices pour fajitas   | 1/4 de sachet         |
 | Mélange aux épices pour guacamole | 1/4 de sachet         |
 | Chips de maïs nature              | 1 paquet              |
@@ -31,7 +31,7 @@
 
 <img src="img/fajitas/IMG_8254.JPG" width="400">
 
-1.b. Bien écraser avec une fourchette et ajouter le mélange aux épices (guacamole)
+1.b. Bien écraser avec une fourchette et ajouter le mélange aux épices "guacamole"
 
 <img src="img/fajitas/IMG_8258.JPG" width="400">
 
@@ -52,11 +52,11 @@
 
 <img src="img/fajitas/IMG_8250.JPG" width="400">
 
-2.c. Une fois les morceaux bien dorés, ajouter du mélange aux épices (fajitas)
+2.c. Une fois les morceaux bien dorés, ajouter du mélange aux épices "fajitas"
 
 <img src="img/fajitas/IMG_8278.JPG" width="400">
 
-2.d. Une fois la viande cuite, versez ensuite une assiette creuse
+2.d. Une fois la viande cuite, verser une assiette creuse
 
 <img src="img/fajitas/IMG_8290.JPG" width="400">
 
@@ -65,15 +65,15 @@
 
 <img src="img/fajitas/IMG_8271.JPG" width="400">
 
-3.b. Versez du mélange aux épices (fajitas)
+3.b. Verser du mélange aux épices "fajitas"
 
 <img src="img/fajitas/IMG_8282.JPG" width="400">
 
-3.c. Puis faites cuire à feu doux pendant 10 minutes
+3.c. Puis faire cuire à feu doux pendant 10 minutes
 
 <img src="img/fajitas/IMG_8293.JPG" width="400">
 
-3.d. Puis versez dans une assiette creuse
+3.d. Enfin verser dans une assiette creuse
 
 <img src="img/fajitas/IMG_8295.JPG" width="400">
 
