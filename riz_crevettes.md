@@ -1,4 +1,4 @@
-# Mon célèbr riz à la crevette, *la fusion parfaite des iles et de l'Asie*
+# Mon célèbre riz à la crevette, *la fusion parfaite des iles et de l'Asie* (pour les débutants ou chefs étoilés)
 
 
 ## Le shopping
