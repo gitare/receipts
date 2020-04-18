@@ -111,7 +111,7 @@
 
 
 ### 7. Faites tomber les sombréros et régalez-vous
-Avec une margarita bien fraîche 🍸
+Avec une margarita bien fraîche 🍸  por favor!
 
 <img src="img/fajitas/IMG_8309.JPG" width="400">
 
