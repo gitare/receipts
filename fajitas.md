@@ -1,4 +1,4 @@
-# Mes fajitas Old El Paso™ (pour los gringos affamés)
+# Mes fajitas Old El Paso™, *pour los gringos affamés*
 
 
 ## Le matos
@@ -22,6 +22,7 @@
 | Mélange aux épices pour guacamole | 1/4 de sachet         |
 | Chips de maïs nature              | 1 paquet              |
 
+<img src="img/lasagne/IMG_8248.JPG" width="400">
 
 ## Etapes détaillées
 --------------------
