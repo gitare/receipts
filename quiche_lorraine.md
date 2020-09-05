@@ -74,7 +74,7 @@
 
 3.b. Recouvrir d'emmental râpé
 
-<img src="img/quiche_lorraine/IMG_9233.JPG" width="400">
+<img src="img/quiche_lorraine/IMG_9433.JPG" width="400">
 
 3.c. Enfourner à mi-hauteur et cuire pendant 30 minutes à 170°C
 
