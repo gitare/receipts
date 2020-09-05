@@ -1,7 +1,7 @@
-# La tarte au chèvre qui m'a fait aimer les épinards
+# La tarte au chèvre qui vous fera aimer les épinards
 
 
-## Au supermarché...
+## En passant au supermarché...
 
 |  Ingrédient                      | Quantité (4 personnes)|
 | :--------------------------------| :------------------   |
@@ -29,11 +29,11 @@
 
 <img src="img/tarte_epinards/IMG_9231.JPG" width="400">
 
-1.c. Faire des trous pour éviter que la pâte gonfle lors de la cuisson
+1.c. Faire des trous à la fourchette pour éviter que la pâte ne gonfle lors de la cuisson...
 
 <img src="img/tarte_epinards/IMG_9232.JPG" width="400">
 
-1.d. Dans un sens puis dans l'autre (à 45°)
+1.d. ...dans un sens puis dans l'autre (à 45°)
 
 <img src="img/tarte_epinards/IMG_9234.JPG" width="400">
 
