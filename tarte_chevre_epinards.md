@@ -60,6 +60,8 @@
 
 2.e. Découper la buche de chèvre en rondelles
 
+<img src="img/tarte_epinards/IMG_9249.JPG" width="400">
+
 ### 3. Assemblage et cuisson
 3.a. Verser la garniture dans le fond de tarte
 
