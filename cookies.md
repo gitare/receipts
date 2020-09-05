@@ -49,7 +49,7 @@
 
 <img src="img/cookies/IMG_9328.JPG" width="400">
 
-2.e. Ajouter progressivement la farine mélangée au sel et à la levure
+2.e. Ajouter progressivement la farine mélangée au sel et à la levure et malaxer 💪💪
 
 <img src="img/cookies/IMG_9338.JPG" width="400">
 
@@ -63,6 +63,7 @@
 
 ### 3. Cuisson
 3.a. Répartir des boules de pâte sur une plaque en les espaçant
+
 (ici le fond amovible d'un moule à manqué)
 
 <img src="img/cookies/IMG_9348.JPG" width="400">
@@ -82,5 +83,5 @@ source : [https://www.marmiton.org/recettes/recette_cookies-maison_86989.aspx#re
 
 mais j'ajoute ma touche perso :
 * les dosages sont légèrement différents
+* leurs quantités pour 9 personnes me permettent de faire 15 maxi-cookies
 * la cuisson est de 11 minutes pour des maxi-cookies
-* leurs quantité pour 9 personnes me permettent de faire 15 maxi-cookies

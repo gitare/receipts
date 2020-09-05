@@ -94,7 +94,7 @@ Pas de cuisson préalable. Les casser à la bonne largeur avec la point d'un cou
 
 <img src="img/lasagne/IMG_7592.JPG" width="400">
 
-### 5. Dégustez en famille
+### 4. Dégustez en famille
 (ou avec vos voisins, qui seront forcément attirés par l'irrésistible odeur qui se dégagera de chez vous)
 
 <img src="img/lasagne/IMG_7598.JPG" width="400">
