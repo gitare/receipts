@@ -5,6 +5,7 @@
 ### salé ou sucré, forkez et... régalez-vous !
 
 - [Les seuls wraps veggie au poulet et à la féta](wraps.md)
+- [Le bouillon aux légumes de papi](bouillon_legumes.md)
 
 - [Mes incroyables lasagnes bolognaise *al forno* (inratable)](lasagne_bolognaise.md)
 - [Mes fajitas Old El Paso™, *pour los gringos affamés*](fajitas.md)
@@ -15,3 +16,12 @@
 - [Mon légendaire fondant au chocolat (super simple)](fondant%20au%20chocolat.md)
 - [Mes maxi-cookies aux pépites de chocolat](cookies.md)
 - [Ma salade de fruits anti-covid](salade_fruits.md)
+
+### coming spoon
+- Mes croque-monsieurs gratinés à la béchamel
+- Mes fameux burgers
+- Les endives gratinées
+- Mes chicken nuggets
+- Ma salade Niçoise
+- Mes samoussa viande
+- Les spaghettis carbo
