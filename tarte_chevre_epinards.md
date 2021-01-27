@@ -78,7 +78,7 @@
 
 <img src="img/tarte_epinards/IMG_9263.JPG" width="400">
 
-3.d. Enfourner à mi-hauteur et cuire pendant 30 minutes à 170°C
+3.d. Enfourner à mi-hauteur et cuire pendant 35 minutes à 170°C
 
 <img src="img/tarte_epinards/IMG_9264.JPG" width="400">
 
