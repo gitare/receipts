@@ -14,6 +14,7 @@
 | Chocolat                          | 1 tablette (200 g)    | 1 1/4 tablette (250 g)|
 | Levure                            | 2,5 cuillères à café  | 3 cuillères à café    |
 | Sel                               | 1 cuillères à café    | 2 cuillères à café    |
+| Smarties                          | 2 tubes               | 2,5 tubes             |
 
 ## Cuisson
 -----------
@@ -61,7 +62,7 @@
 
 <img src="img/cookies/IMG_9344.JPG" width="400">
 
-### 3. La garniture
+### 3. La garniture (en option)
 Briser des smarties en morceaux
 
 ### 4. Cuisson
@@ -71,7 +72,7 @@ Briser des smarties en morceaux
 
 <img src="img/cookies/IMG_9348.JPG" width="400">
 
-4.b. Saupoudrer les smarties sur les cookies
+4.b. Saupoudrer les smarties sur les cookies (en option)
 
 4.c. Faire cuire à 180°C pendant 11 minutes
 
