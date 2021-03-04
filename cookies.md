@@ -4,16 +4,16 @@
 ## La liste de courses
 --------------
 
-|  Ingrédient                       | Quantité (15 cookies) |
-| :---------------------------------| :---------------------|
-| Oeufs                             | 3                     |
-| Beurre                            | 200 g                 |
-| Farine                            | 350 g                 |
-| Sucre                             | 200 g                 |
-| Sucre vanillé                     | 1 sachet              |
-| Chocolat                          | 1 tablette (200 g)    |
-| Levure                            | 2,5 cuillères à café  |
-| Sel                               | 2 cuillères à café    |
+|  Ingrédient                       | Quantité (15 cookies) | Quantité (20 cookies) |
+| :---------------------------------| :---------------------| :---------------------|
+| Oeufs                             | 3                     | 4                     |
+| Beurre                            | 200 g                 | 250 g                 |
+| Farine                            | 350 g                 | 440 g                 |
+| Sucre                             | 200 g                 | 250 g                 |
+| Sucre vanillé                     | 1 sachet              | 1 1/4 sachets         |
+| Chocolat                          | 1 tablette (200 g)    | 1 1/4 tablette (250 g)|
+| Levure                            | 2,5 cuillères à café  | 3 cuillères à café    |
+| Sel                               | 1 cuillères à café    | 2 cuillères à café    |
 
 ## Cuisson
 -----------
@@ -61,18 +61,23 @@
 
 <img src="img/cookies/IMG_9344.JPG" width="400">
 
-### 3. Cuisson
-3.a. Répartir des boules de pâte sur une plaque en les espaçant
+### 3. La garniture
+Briser des smarties en morceaux
+
+### 4. Cuisson
+4.a. Répartir des boules de pâte sur une plaque en les espaçant
 
 (ici le fond amovible d'un moule à manqué)
 
 <img src="img/cookies/IMG_9348.JPG" width="400">
 
-3.b. Faire cuire à 180°C pendant 11 minutes
+4.b. Saupoudrer les smarties sur les cookies
+
+4.c. Faire cuire à 180°C pendant 11 minutes
 
 <img src="img/cookies/IMG_9352.JPG" width="400">
 
-### 5. C'est parti pour le goûter (ou le petit-déjeuner) !
+### 6. C'est parti pour le goûter (ou le petit-déjeuner) !
 
 <img src="img/cookies/IMG_9360.JPG" width="400">
 
@@ -84,4 +89,5 @@ source : [https://www.marmiton.org/recettes/recette_cookies-maison_86989.aspx#re
 mais j'ajoute ma touche perso :
 * les dosages sont légèrement différents
 * leurs quantités pour 9 personnes me permettent de faire 15 maxi-cookies
+* je garnis de smarties
 * la cuisson est de 11 minutes pour des maxi-cookies

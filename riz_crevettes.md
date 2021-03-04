@@ -12,6 +12,7 @@
 | Poivron rouge                     | 1                         |
 | Piments de Cayenne                | 2                         |
 | Gousses d'ail                     | 2                         |
+| Crème de coco                     | 500 ml                    |
 | Huile d'olive                     |                           |
 | Poivre                            |                           |
 
@@ -22,33 +23,36 @@
 
 ### Préparation
 
-1. Mettre le riz à chauffer (voir la durée sur la boîte)
-
-<img src="img/riz_crevettes/IMG_8148.JPG" width="400">
-
-2. Couper les poivrons en dés et hacher l'aïl
+1. Couper les poivrons en dés et hacher l'aïl
 
 <img src="img/riz_crevettes/IMG_8153.JPG" width="400">
 
-3. Faire cuire le tout à feu doux dans de l'huile d'olive
+2. Faire cuire le tout à feu doux dans de l'huile d'olive
 
 <img src="img/riz_crevettes/IMG_8154.JPG" width="400">
 
-4. Au bout de 10 minutes de cuisson, ajouter les crevettes
+3. Au bout de 10 minutes de cuisson, ajouter les crevettes
 
 <img src="img/riz_crevettes/IMG_8165.JPG" width="400">
 
-5. Poivrer et ajouter les piments hachés
+4. Poivrer et ajouter les piments hachés
 
 <img src="img/riz_crevettes/IMG_8173.JPG" width="400">
 
-6. Une fois les cevettes bien dorées, ajouter le riz et mélanger
+5. Mettre le riz à chauffer (voir la durée sur la boîte)
 
-<img src="img/riz_crevettes/IMG_8183.JPG" width="400">
+<img src="img/riz_crevettes/IMG_8148.JPG" width="400">
 
-7. Cuire le tout à feu doux pendant 5 minutes
+6. Une fois les cevettes bien dorées, ajouter progressivement la crème de coco et mélanger
 
-<img src="img/riz_crevettes/IMG_8187.JPG" width="400">
+7. Cuire le tout à feu doux pendant 10 minutes
+
+8. Dressez les assiettes en faisant un pâté avec le riz
+
+9. Ajouter la sauce et servez !
+
+<!--- <img src="img/riz_crevettes/IMG_8183.JPG" width="400">
+// <img src="img/riz_crevettes/IMG_8187.JPG" width="400"> -->
 
 ### Direction le soleil !
 Ambiance exotique assurée
