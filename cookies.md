@@ -4,7 +4,7 @@
 ## La liste de courses
 --------------
 
-|  Ingrédient                       | Quantité (15 cookies) | Quantité (20 cookies) |
+|  Ingrédient                       | Quantité (20 cookies) | Quantité (25 cookies) |
 | :---------------------------------| :---------------------| :---------------------|
 | Oeufs                             | 3                     | 4                     |
 | Beurre                            | 200 g                 | 250 g                 |
@@ -30,6 +30,7 @@
 <img src="img/cookies/IMG_9317.JPG" width="400">
 
 1.b. Concasser les morceaux pour les réduire en pépites
+(éventuellement au mixer)
 
 <img src="img/cookies/IMG_9321.JPG" width="400">
 
@@ -63,10 +64,10 @@
 <img src="img/cookies/IMG_9344.JPG" width="400">
 
 ### 3. La garniture (en option)
-Briser des smarties en morceaux
+Concasser des smarties en morceaux
 
 ### 4. Cuisson
-4.a. Répartir des boules de pâte sur une plaque en les espaçant
+4.a. Répartir des boules de pâte sur une plaque recouverte de papier cuisson en les espaçant
 
 (ici le fond amovible d'un moule à manqué)
 
