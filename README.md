@@ -24,4 +24,5 @@
 - Mes chicken nuggets
 - Ma salade Niçoise
 - Mes samoussa viande
-- Les spaghettis carbo
+- Les spaghettis carbo.
+- Le fondant choco-banane

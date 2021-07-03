@@ -4,17 +4,17 @@
 ## La liste de courses
 --------------
 
-|  Ingrédient                       | Quantité (20 cookies) | Quantité (25 cookies) |
-| :---------------------------------| :---------------------| :---------------------|
-| Oeufs                             | 3                     | 4                     |
-| Beurre                            | 200 g                 | 250 g                 |
-| Farine                            | 350 g                 | 440 g                 |
-| Sucre                             | 200 g                 | 250 g                 |
-| Sucre vanillé                     | 1 sachet              | 1 1/4 sachets         |
-| Chocolat                          | 1 tablette (200 g)    | 1 1/4 tablette (250 g)|
-| Levure                            | 2,5 cuillères à café  | 3 cuillères à café    |
-| Sel                               | 1 cuillères à café    | 2 cuillères à café    |
-| Smarties                          | 2 tubes               | 2,5 tubes             |
+|  Ingrédient                       | Quantité (20 cookies) | Quantité (30 cookies) | Quantité (45 cookies) |
+| :---------------------------------| :---------------------| :---------------------| :---------------------|
+| Oeufs                             | 3                     | 4                     | 6                     |
+| Beurre                            | 200 g                 | 250 g                 | 400 g                 |
+| Farine                            | 350 g                 | 440 g                 | 700 g                 |
+| Sucre                             | 200 g                 | 250 g                 | 400 g                 |
+| Sucre vanillé                     | 1 sachet              | 1 1/4 sachets         | 2 sachets             |
+| Chocolat                          | 1 tablette (200 g)    | 1 1/4 tablette (250 g)| 2 tablette (250 g)    |
+| Levure                            | 2,5 cuillères à café  | 3 cuillères à café    | 5 cuillères à café    |
+| Sel                               | 1 cuillères à café    | 2 cuillères à café    | 2 cuillères à café    |
+| Smarties                          | 2 tubes  (5 boites)   | 2,5 tubes (7 boites)  | 4 tubes (10 boites)   |
 
 ## Cuisson
 -----------
